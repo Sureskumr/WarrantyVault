@@ -1,0 +1,28 @@
+# Node / frontend
+node_modules/
+client/node_modules/
+server/node_modules/
+client/dist/
+server/coverage/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS/editor
+.DS_Store
+.vscode/
+Thumbs.db
+
+# Build output
+build/
+dist/
+
+# Temporary files
+*.tmp
+*.swp
